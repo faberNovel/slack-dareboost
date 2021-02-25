@@ -1,3 +1,5 @@
+# [Deprecated] Use @fabernovel/heart-dareboost NPM package instead 
+
 # Dareboost automation
 
 Automate Dareboost tests through multiple ways.
